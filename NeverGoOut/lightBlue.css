@@ -1,2 +1,12 @@
 ﻿body {
+    background-color:aqua;
+}
+li::first-letter {
+    font-size: 200%;
+}
+#alignSonnet {
+    width: 30%;
+    margin:auto;
+    text-align:center;
+    
 }
