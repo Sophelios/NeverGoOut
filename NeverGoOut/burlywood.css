@@ -1,0 +1,26 @@
+﻿body {
+    background-color:burlywood;
+}
+li::first-letter {
+    font-size: 200%;
+}
+#alignSonnet {
+    width: 60%;
+    margin:auto;
+    text-align:center;
+    
+}
+h1{
+    background-color:white;
+    border:dotted;
+    text-align:center;
+    width:600px;
+    margin:auto;
+}
+#border{
+    background-color:white;
+    border:dotted;
+    text-align:center;
+    width:600px;
+    margin:auto;
+}
